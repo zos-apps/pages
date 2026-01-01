@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Pages: React.FC = () => {
   const [content, setContent] = useState(`# Welcome to Pages
